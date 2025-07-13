@@ -1,12 +1,3 @@
-# Spacetra-logo
-# 🌌 SPACETRA
-
-![SPACETRA Logo](./file_00000000a58861f9a0d0927715f115e1.png)
-
-**SPACETRA** is a futuristic and creative project exploring the intersection of design, space, and technology. Whether it's branding, animation, or digital experiences, SPACETRA represents innovation beyond the stars.
-
----
-
 ## 🚀 About This Project
 
 SPACETRA is more than just a logo — it's a vision of cosmic creativity. This repository contains the visual assets, concept story, and future updates of the SPACETRA branding project.
